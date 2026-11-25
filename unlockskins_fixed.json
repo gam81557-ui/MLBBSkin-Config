@@ -15,7 +15,10 @@
       "initMs": 12000,
       "loadMs": 12000,
       "displayMs": 65000
+    }
+  },
   "Hayabusa-PbWHe69JEY": {
+    
     "key": "Hayabusa-PbWHe69JEY",
     "hero": "Hayabusa",
     "skin_name": "Shura",
