@@ -1,8 +1,20 @@
 {
   "maintenance": false,
+  "minVersionCode": 1,
+  "ads": {
+    "enabled": true,
     "requireAdForDownload": true,
-  "maintenance_message": "လက်ရှိ server ပြုပြင်နေပါသည်။ ခဏစောင့်ပြီးမှ ပြန်ဖွင့်ပါ။",
-  "enabled": true,
+    "testModeOverride": false,
+    "gameId": "800450404",
+    "placements": {
+      "banner": "BP_Banner_Android",
+      "rewarded": "BP_Rewarded_Android",
+      "interstitial": "BP_Interstitial_Android"
+    },
+    "timeouts": {
+      "initMs": 12000,
+      "loadMs": 12000,
+      "displayMs": 65000
   "Hayabusa-PbWHe69JEY": {
     "key": "Hayabusa-PbWHe69JEY",
     "hero": "Hayabusa",
