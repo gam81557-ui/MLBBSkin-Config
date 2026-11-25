@@ -2,6 +2,10 @@
   "maintenance": false,
   "requireAdForDownload": true,
   "minVersionCode": 1,
+  "show_notice": true,
+  "notice_id": "notice_2026_11_25_01",
+  "title": "Notification",
+  "message": "Script အသစ်များ တင်ပေးထားပါပြီ။ အသုံးပြုကြည့်နိုင်ပါပြီ။",
   "ads": {
     "enabled": true,
     "requireAdForDownload": true,
