@@ -1,5 +1,6 @@
 {
   "maintenance": false,
+  "requireAdForDownload": true,
   "minVersionCode": 1,
   "ads": {
     "enabled": true,
