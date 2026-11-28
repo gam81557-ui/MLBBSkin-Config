@@ -8,7 +8,7 @@
   "message": "Script အသစ်များ တင်ပေးထားပါပြီ။ပြန်စမ်းကြည့်ညီ။",
   "ads": {
     "enabled": true,
-    "requireAdForDownload": true,
+    "requireAdForDownload": false,
     "testModeOverride": false,
     "gameId": "800450404",
     "placements": {
