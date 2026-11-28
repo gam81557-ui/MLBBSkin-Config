@@ -1,6 +1,6 @@
 {
   "maintenance": false,
-  "requireAdForDownload": false,
+  "requireAdForDownload": true,
   "minVersionCode": 1,
   "show_notice": true,
   "notice_id": "notice_2026_11_25_01",
@@ -8,7 +8,7 @@
   "message": "Script အသစ်များ တင်ပေးထားပါပြီ။ပြန်စမ်းကြည့်ညီ။",
   "ads": {
     "enabled": true,
-    "requireAdForDownload": false,
+    "requireAdForDownload": true,
     "testModeOverride": false,
     "gameId": "800450404",
     "placements": {
